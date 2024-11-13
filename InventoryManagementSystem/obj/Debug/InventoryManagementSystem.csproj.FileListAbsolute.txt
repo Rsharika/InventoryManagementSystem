@@ -1,0 +1,92 @@
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.LoginForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Properties.Resources.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerButton.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.MainForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserModuleForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerModuleForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CategoryForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CategoryModuleForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ProductForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ProductModuleForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.OrderForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.OrderModuleForm.resources
+C:\Users\acer\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.WelcomeForm.resources
+C:\Users\ASUS\Downloads\Compressed\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+C:\Users\ASUS\Downloads\Compressed\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+C:\Users\ASUS\Downloads\Compressed\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+C:\Users\ASUS\Downloads\Compressed\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\Compressed\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CategoryForm.resources
+C:\Users\ASUS\Downloads\Compressed\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CategoryModuleForm.resources
+C:\Users\ASUS\Downloads\Compressed\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerButton.resources
+C:\Users\ASUS\Downloads\Compressed\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerForm.resources
+C:\Users\ASUS\Downloads\Compressed\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerModuleForm.resources
+C:\Users\ASUS\Downloads\Compressed\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.LoginForm.resources
+C:\Users\ASUS\Downloads\Compressed\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.MainForm.resources
+C:\Users\ASUS\Downloads\Compressed\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.OrderForm.resources
+C:\Users\ASUS\Downloads\Compressed\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.OrderModuleForm.resources
+C:\Users\ASUS\Downloads\Compressed\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ProductForm.resources
+C:\Users\ASUS\Downloads\Compressed\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ProductModuleForm.resources
+C:\Users\ASUS\Downloads\Compressed\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Properties.Resources.resources
+C:\Users\ASUS\Downloads\Compressed\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserForm.resources
+C:\Users\ASUS\Downloads\Compressed\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserModuleForm.resources
+C:\Users\ASUS\Downloads\Compressed\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.WelcomeForm.resources
+C:\Users\ASUS\Downloads\Compressed\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Compressed\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Compressed\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+C:\Users\ASUS\Downloads\Compressed\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
+C:\Users\ASUS\Desktop\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+C:\Users\ASUS\Desktop\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+C:\Users\ASUS\Desktop\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+C:\Users\ASUS\Desktop\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CategoryForm.resources
+C:\Users\ASUS\Desktop\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CategoryModuleForm.resources
+C:\Users\ASUS\Desktop\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerButton.resources
+C:\Users\ASUS\Desktop\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerForm.resources
+C:\Users\ASUS\Desktop\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerModuleForm.resources
+C:\Users\ASUS\Desktop\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.LoginForm.resources
+C:\Users\ASUS\Desktop\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.MainForm.resources
+C:\Users\ASUS\Desktop\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.OrderForm.resources
+C:\Users\ASUS\Desktop\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.OrderModuleForm.resources
+C:\Users\ASUS\Desktop\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ProductForm.resources
+C:\Users\ASUS\Desktop\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ProductModuleForm.resources
+C:\Users\ASUS\Desktop\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserForm.resources
+C:\Users\ASUS\Desktop\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserModuleForm.resources
+C:\Users\ASUS\Desktop\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.WelcomeForm.resources
+C:\Users\ASUS\Desktop\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+C:\Users\ASUS\Desktop\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
+F:\1st, 2nd, 3rd, 4th, 5th & 6th semester\5th semester\Software and Development  projecct-1 ( CCE -310)\project\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+F:\1st, 2nd, 3rd, 4th, 5th & 6th semester\5th semester\Software and Development  projecct-1 ( CCE -310)\project\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+F:\1st, 2nd, 3rd, 4th, 5th & 6th semester\5th semester\Software and Development  projecct-1 ( CCE -310)\project\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+F:\1st, 2nd, 3rd, 4th, 5th & 6th semester\5th semester\Software and Development  projecct-1 ( CCE -310)\project\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.AssemblyReference.cache
+F:\1st, 2nd, 3rd, 4th, 5th & 6th semester\5th semester\Software and Development  projecct-1 ( CCE -310)\project\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CategoryForm.resources
+F:\1st, 2nd, 3rd, 4th, 5th & 6th semester\5th semester\Software and Development  projecct-1 ( CCE -310)\project\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CategoryModuleForm.resources
+F:\1st, 2nd, 3rd, 4th, 5th & 6th semester\5th semester\Software and Development  projecct-1 ( CCE -310)\project\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerButton.resources
+F:\1st, 2nd, 3rd, 4th, 5th & 6th semester\5th semester\Software and Development  projecct-1 ( CCE -310)\project\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerForm.resources
+F:\1st, 2nd, 3rd, 4th, 5th & 6th semester\5th semester\Software and Development  projecct-1 ( CCE -310)\project\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.CustomerModuleForm.resources
+F:\1st, 2nd, 3rd, 4th, 5th & 6th semester\5th semester\Software and Development  projecct-1 ( CCE -310)\project\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.LoginForm.resources
+F:\1st, 2nd, 3rd, 4th, 5th & 6th semester\5th semester\Software and Development  projecct-1 ( CCE -310)\project\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.MainForm.resources
+F:\1st, 2nd, 3rd, 4th, 5th & 6th semester\5th semester\Software and Development  projecct-1 ( CCE -310)\project\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.OrderForm.resources
+F:\1st, 2nd, 3rd, 4th, 5th & 6th semester\5th semester\Software and Development  projecct-1 ( CCE -310)\project\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.OrderModuleForm.resources
+F:\1st, 2nd, 3rd, 4th, 5th & 6th semester\5th semester\Software and Development  projecct-1 ( CCE -310)\project\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ProductForm.resources
+F:\1st, 2nd, 3rd, 4th, 5th & 6th semester\5th semester\Software and Development  projecct-1 ( CCE -310)\project\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.ProductModuleForm.resources
+F:\1st, 2nd, 3rd, 4th, 5th & 6th semester\5th semester\Software and Development  projecct-1 ( CCE -310)\project\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Properties.Resources.resources
+F:\1st, 2nd, 3rd, 4th, 5th & 6th semester\5th semester\Software and Development  projecct-1 ( CCE -310)\project\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserForm.resources
+F:\1st, 2nd, 3rd, 4th, 5th & 6th semester\5th semester\Software and Development  projecct-1 ( CCE -310)\project\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.UserModuleForm.resources
+F:\1st, 2nd, 3rd, 4th, 5th & 6th semester\5th semester\Software and Development  projecct-1 ( CCE -310)\project\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.WelcomeForm.resources
+F:\1st, 2nd, 3rd, 4th, 5th & 6th semester\5th semester\Software and Development  projecct-1 ( CCE -310)\project\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.cache
+F:\1st, 2nd, 3rd, 4th, 5th & 6th semester\5th semester\Software and Development  projecct-1 ( CCE -310)\project\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+F:\1st, 2nd, 3rd, 4th, 5th & 6th semester\5th semester\Software and Development  projecct-1 ( CCE -310)\project\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+F:\1st, 2nd, 3rd, 4th, 5th & 6th semester\5th semester\Software and Development  projecct-1 ( CCE -310)\project\Project\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
